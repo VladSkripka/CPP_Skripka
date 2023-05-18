@@ -18,6 +18,7 @@ namespace Lab2X.Tests
         {
             var viewModel = new MainViewModel();
             Assert.Equal("Welcome to.NET MAUI", viewModel.Title);
+
         }
     }
 }
